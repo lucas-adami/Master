@@ -1,2 +1,2 @@
 # Master
-Aula de Ientegração e entrega continua - Git
+Aula de Integração e entrega continua - Git
